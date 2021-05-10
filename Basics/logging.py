@@ -1,0 +1,1 @@
+#Logging is done with the purpose of Diagonostics and Auditing
